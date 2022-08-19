@@ -37,16 +37,16 @@ const Navbar = () => {
           <div>
             <div className={`flex-1 justify-self-center pb-3 mt-8 md:block md:pb-0 md:mt-0 ${navbar ? "block" : "hidden"}`}>
               <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
-                <li className="text-white hover:text-[#563f29] hover:scale-105 ease-in duration-200">
+                <li className="text-white hover:text-gray-500 hover:scale-105 ease-in duration-200">
                   <a href="javascript:void(0)">Home</a>
                 </li>
-                <li className="text-white hover:text-[#563f29] hover:scale-105 ease-in duration-200">
+                <li className="text-white hover:text-gray-500 hover:scale-105 ease-in duration-200">
                   <a href="javascript:void(0)">Tentang Kami</a>
                 </li>
-                <li className="text-white hover:text-[#563f29] hover:scale-105 ease-in duration-200">
+                <li className="text-white hover:text-gray-500 hover:scale-105 ease-in duration-200">
                   <a href="javascript:void(0)">Menu</a>
                 </li>
-                <li className="text-white hover:text-[#563f29] hover:scale-105 ease-in duration-200">
+                <li className="text-white hover:text-gray-500 hover:scale-105 ease-in duration-200">
                   <a href="javascript:void(0)">Kontak</a>
                 </li>
               </ul>
