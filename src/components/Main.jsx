@@ -3,7 +3,7 @@ import BGmakanan from "../assets/makanan1.jpg";
 
 const Main = () => {
   return (
-    <div id="about" className="w-full md:h-screen p-2 flex items-center justify-center py-16 bg-black">
+    <div id="home" className="w-full md:h-screen p-2 flex items-center justify-center py-16 bg-black">
       <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-10">
         <div className="col-span-2">
           <p className="uppercase text-xl tracking-widest text-white underline underline-offset-8">chase the new flavour</p>
