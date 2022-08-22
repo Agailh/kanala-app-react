@@ -3,7 +3,7 @@ import PM1 from "../assets/makanan1.jpg";
 
 const Menu = () => {
   return (
-    <div className="w-full h-auto ">
+    <div id="Menu" className="w-full h-auto ">
       <div className="max-w-[1240px] mx-auto px-2 py-16">
         <p className="uppercase text-xl tracking-widest text-white underline underline-offset-8">MENu</p>
         <h2 className="py-4 text-[#e4d7b6] text-5xl font-mono">Our Speciallity</h2>
