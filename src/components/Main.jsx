@@ -7,7 +7,7 @@ const Main = () => {
       <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-10">
         <div className="col-span-2">
           <p className="uppercase text-xl tracking-widest text-white underline underline-offset-8">chase the new flavour</p>
-          <h2 className="py-4 text-[#e4d7b6] text-7xl font-mono">The Key To Fine Dining</h2>
+          <h2 className="py-4 text-[#e4d7b6] text-5xl font-mono">The Key To Fine Dining</h2>
           <p className="py-2 text-white">only in kanala resto</p>
           <p className="py-2 text-white">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt deleniti esse impedit debitis dolores rem sint commodi tempora, nihil, aut mollitia repellendus, laudantium provident minus temporibus laboriosam aliquam ipsam
