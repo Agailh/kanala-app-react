@@ -10,7 +10,7 @@ const Footer = () => {
           <h1 className="py-4 text-white text-1xl ">
             Jl.Salatiga dadapayam RT01/RW04 Sidorejo Kidul,Tingkir, 50744, Sidorejo Kidul, <br /> Kec. Tingkir, Kota Salatiga, Jawa Tengah 50741
           </h1>
-          <h1 className="py-4 text-[#e4d7b6] text-3xl font-mono">Working Hours</h1>
+          <h1 className="py-4 text-[#e4d7b6] text-3xl font-mono">Open Hours</h1>
           <p className="py-4 text-white max-w-[70%] mb-6 m-auto">
             Tuesday-Sunday : <br /> 01:00 PM - 08:00 PM
           </p>

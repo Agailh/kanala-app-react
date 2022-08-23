@@ -4,6 +4,7 @@ import Menu from "./components/Menu";
 import Tentang from "./components/Tentang";
 import Kontak from "./components/Kontak";
 import Footer from "./components/Footer";
+import Gallery from "./components/Gallery";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Main />
         <Tentang />
         <Menu />
+        <Gallery />
         <Kontak />
         <Footer />
       </div>
