@@ -41,4 +41,4 @@ const MapsG = (props) => {
   );
 };
 
-export default GoogleApiWrapper({ apiKey: "AIzaSyBuF3xx3M-Em-Ly6utaJVUGy6kKEikXiDs" })(MapsG);
+export default GoogleApiWrapper({ apiKey: "" })(MapsG);
