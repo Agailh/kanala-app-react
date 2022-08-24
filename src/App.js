@@ -5,6 +5,7 @@ import Tentang from "./components/Tentang";
 import Kontak from "./components/Kontak";
 import Footer from "./components/Footer";
 import Gallery from "./components/Gallery";
+import MapsG from "./components/MapsG";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Tentang />
         <Menu />
         <Gallery />
+        {/* <MapsG /> */}
         <Kontak />
         <Footer />
       </div>
